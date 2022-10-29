@@ -13,10 +13,10 @@ Ubuntu,22.04,3.0.2,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+
 NodeJS,>=18.0.0,3.x,"https://nodejs.org/en/blog/vulnerability/openssl-november-2022/",pending,N/A
 Go,TBD,TBD,"https://groups.google.com/g/golang-announce/c/dRtDK7WS78g",pending,N/A
 Tor,TBD,TBD,"https://forum.torproject.net/t/tor-relays-upcoming-openssl-3-security-bugfix-release/5330/2",pending,N/A
-Docker Images,TBD,TBD,https://dso.docker.com/cve/DSA-2022-0001?public=2,pending,N/A
-openssl,>=3.0.0-r0,>=3.0.0-r0,https://dso.docker.com/cve/DSA-2022-0001?public=3,pending,N/A
-openssl3,>=3.0.0-r0,>=3.0.0-r0,https://dso.docker.com/cve/DSA-2022-0001?public=3,pending,N/A
-oraclelinux:openssl,>=1:3.0.0,TBD,https://dso.docker.com/cve/DSA-2022-0001?public=3,pending,N/A
+Docker Images,TBD,TBD,"https://dso.docker.com/cve/DSA-2022-0001?public=2,pending",N/A
+openssl,>=3.0.0-r0,>=3.0.0-r0,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,N/A
+openssl3,>=3.0.0-r0,>=3.0.0-r0,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,N/A
+oraclelinux:openssl,>=1:3.0.0,TBD,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,N/A
 clojure,latest,TBD,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,sha256:097d978b12440e0161fd4ac188283eeb76ab70f1c2d4322624711dfbcbc3634c,N/A
 eclipse-temurin,11.0,TBD,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,sha256:1c87e779b0c3c3f9aa04bbd73add150daca33247c61d1ae4e96f663d4c47ad6b,N/A
 flink,1.16,TBD,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,sha256:8e5c7ca14c04dccb16ddf4e0ab971ded30a2234ab6d69bbb67b7d5f3cc397469 - which flink versions are vulnerable ?,N/A
