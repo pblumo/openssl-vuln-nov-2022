@@ -1,4 +1,4 @@
-os-software-library_name,os-software-library-vulnerable_version,openssl_version,vendor_url,vuln_confirmed,comments
+os-software-library_name,os-software-library-vulnerable_version,openssl_version,advisory_url,vuln_confirmed,comments
 CentOS Stream,9,3.0.1,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192",pending,N/A
 Fedora,36,3.0.5,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192",pending,N/A
 Fedora,Rawhide,3.0.5,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192",pending,N/A
