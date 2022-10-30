@@ -11,7 +11,6 @@ Redhat ES,9,3.0,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+Vul
 Rocky Linux,9.0 (Blue Onyx),3.0.1,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192",pending,N/A
 Ubuntu,>=22.04,3.0.2,"https://isc.sans.edu/forums/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192",pending,N/A
 NodeJS,>=18.0.0,3.x,"https://nodejs.org/en/blog/vulnerability/openssl-november-2022/",pending,N/A
-Go,TBD,TBD,"https://groups.google.com/g/golang-announce/c/dRtDK7WS78g",pending,N/A
 Tor,TBD,TBD,"https://forum.torproject.net/t/tor-relays-upcoming-openssl-3-security-bugfix-release/5330/2",pending,N/A
 Docker Images,TBD,TBD,"https://dso.docker.com/cve/DSA-2022-0001?public=2",pending,N/A
 openssl,>=3.0.0-r0,>=3.0.0-r0,"https://dso.docker.com/cve/DSA-2022-0001?public=3",pending,N/A
